@@ -1,0 +1,6 @@
+Flask
+scikit-learn
+waitress
+torch
+torchvision
+Pillow

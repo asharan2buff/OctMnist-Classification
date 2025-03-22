@@ -1,3 +1,4 @@
-# OctMnist-Classification
-
-Best Model Weights : https://buffalo.box.com/s/w37uhadb8g4td1xx64fae1lj8vftnsoi
+1. Run the following command gcloud close within the project directory with main.py
+```
+gcloud run deploy --source .
+```
